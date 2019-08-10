@@ -1,1 +1,6 @@
-你那个控件的属性clickable = false   是不能点击的，你只有获取他的位置来点击
+@：你那个控件的属性clickable = false   是不能点击的，你只有获取他的位置来点击（已解决）
+@：autojs 如何解析xml 根据节点的id获取节点的text之类的(求代码)
+@@衍生问题 autojs如何调用java的jar包 打包成app如何把jar包带进去(求代码)
+@@autojs如何调用nodejs的模块(求代码)
+@：autojs如何解决socket端口被占用问题(求代码)
+@：autojs在第一个悬浮窗上再打开一个悬浮窗时候 如何获取后者的id,再id点击事件失效(求解决)
